@@ -1,0 +1,18 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Build files
+/build/
+/out/
+
+# Gradle specific files
+.gradle/
+.gradle-cache/
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
